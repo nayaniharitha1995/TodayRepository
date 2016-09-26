@@ -1,0 +1,12 @@
+<html>
+	<head>
+		<title>
+			My_First
+		</title>
+	</head>
+</html>
+<?php
+	echo "Welcome";
+	$a=$_POST['a'];
+	echo "Hi".$a;
+?>
